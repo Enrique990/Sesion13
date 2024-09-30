@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Burbujas", "Burbujas\Burbujas.csproj", "{68EC3A54-8483-4383-A9BE-4916D1B94B5E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Registro", "Registro\Registro.csproj", "{B66A9AA5-71F8-423B-881E-7F9BA4523AEF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68EC3A54-8483-4383-A9BE-4916D1B94B5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68EC3A54-8483-4383-A9BE-4916D1B94B5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68EC3A54-8483-4383-A9BE-4916D1B94B5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68EC3A54-8483-4383-A9BE-4916D1B94B5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B66A9AA5-71F8-423B-881E-7F9BA4523AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B66A9AA5-71F8-423B-881E-7F9BA4523AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B66A9AA5-71F8-423B-881E-7F9BA4523AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B66A9AA5-71F8-423B-881E-7F9BA4523AEF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1BFC43C7-A511-463A-8766-58F4337998A4}
+	EndGlobalSection
+EndGlobal
